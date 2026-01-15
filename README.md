@@ -43,4 +43,4 @@ A production-ready Expense Management System built with Spring Boot.
 
 ---
 
-Built with ❤️ by Sushant Saini
+Built by Sushant Saini
